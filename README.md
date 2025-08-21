@@ -1,4 +1,4 @@
-# Paul Andrew Norton
+# Paul Norton aka skitz0
 
 ## About Me
 
