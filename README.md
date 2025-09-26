@@ -7,9 +7,9 @@ I'm a passionate Linux-focused cloud engineer and digital infrastructure expert,
 ## Skills & Technologies
 
 - **Cloud & DevOps:** Kubernetes (K8s, EKS), AWS, Terraform, Ansible, Jenkins
-- **Programming & Scripting:** Python, Bash
+- **Programming & Scripting:** Python, Bash, Ansible, TF, JS, HTML, PHP, Github Worflows, Bitbucket Pipelines, YAML, Docker Compose, Helm, K8s
 - **Network Engineering:** Network Admin, Network Security, Network Design, Firewalls, PFsense, VPN (OpenVPN, Wireguard, Tailscale)
-- **Virtualization & Containers:** Docker, LXC, Proxmox
+- **Virtualization & Containers:** Docker, LXC, Proxmox, Kubernetes K8s, VMs, Podman, containerd
 - **General Infrastructure:** Production deployment pipelines, monitoring, escalation procedures, documentation
 
 ## Professional Experience
